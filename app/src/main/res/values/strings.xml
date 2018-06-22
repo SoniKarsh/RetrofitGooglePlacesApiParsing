@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitDemoGooglePlaces</string>
+    <string name="enter_place">Enter Place</string>
+    <string name="submit">Submit</string>
+</resources>
